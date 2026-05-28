@@ -29,4 +29,4 @@ Color Pop is a SpriteKit color-matching game. Players tap the balloon that match
 
 ## Demo
 
-The repository includes `Color Pop.mov`, a short gameplay recording from the simulator.
+The repository includes `Color Pop.mp4`, a short gameplay recording from the simulator.
